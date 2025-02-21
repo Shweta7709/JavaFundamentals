@@ -6,7 +6,7 @@ public class Dao {
 	int b=5;
 	
 	public int div() {
-	int	c=a/b;
+	int c=a/b;
 	return c;
 	}
 
